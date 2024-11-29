@@ -1,6 +1,6 @@
 ![img](https://i.imgur.com/5rgEz3a.jpg)
 
-Você pode acessá-lo com este [link.](https://www.rhuanbello.com/)
+Você pode acessá-lo com este [link.](https://www.fabianorocha.com/)
 
 ---
 
@@ -15,7 +15,7 @@ Alguns features existentes são:
 - Responsividade para todos dispositivos;
 - Modal que busca dados de Array de objetos;
 
-Você pode acessá-lo com este [link.](https://www.rhuanbello.com/)
+Você pode acessá-lo com este [link.](https://www.fabianorocha.com/)
 
 ---
 
