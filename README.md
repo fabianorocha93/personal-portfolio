@@ -1,8 +1,6 @@
-[img](https://i.imgur.com/5rgEz3a.jpg)
+[img](assets/portfolioPc.png)
 
-Você pode acessá-lo com este [link.](https://www.fabianorocha.com/)-->
-
-[img](https://i.imgur.com/a/otW4Drs.png)
+<!--Você pode acessá-lo com este [link.](https://www.fabianorocha.com/)-->
 
 ---
 
