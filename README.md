@@ -2,7 +2,7 @@
 
 Você pode acessá-lo com este [link.](https://www.fabianorocha.com/)-->
 
-[img](https://i.imgur.com/a/otW4Drs.jpg)
+[img](https://i.imgur.com/a/otW4Drs.png)
 
 ---
 
