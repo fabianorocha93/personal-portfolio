@@ -1,4 +1,4 @@
-[img](assets/portfolioPc.png)
+![img](assets/portfolioPc.png)
 
 <!--Você pode acessá-lo com este [link.](https://www.fabianorocha.com/)-->
 
