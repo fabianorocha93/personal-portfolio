@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes ferramentas:
 
 ## **📝 Licença**
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/fabianorocha93/portfolio/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/fabianorocha93/personal-portfolio/blob/master/LICENSE) para mais detalhes.
 
 ---
 
