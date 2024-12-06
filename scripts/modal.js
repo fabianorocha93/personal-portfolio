@@ -2,15 +2,15 @@
 
 const dataProjects = [
     {
-        title: 'DoWhile 2021 Virtual Badge',
-        date: '24 de Outubro de 2021',
-        description: `O DoWhile 2021 Card é uma aplicação interativa que mostra informações do usuário através da API do GitHub :D <br><br>
+        title: 'INTEGRA Teams',
+        date: 'Em desenvolvimento',
+        description: `O INTEGRA Teams é uma aplicação interativa que  <br><br>
 
-        Após concluir o evento, adicionei funcionalidades extras, como: <br><br>
+        Está sendo desenolvido com: <br><br>
         
-        • Modal para o usuário inserir seus próprios dados no Card; <br>
-        • Armazenamento dos dados inseridos pelo usuário no LocalStorage do navegador, fazendo com que as informações sejam mantidas mesmo após fechar a página; <br>
-        • Animação de Flip em 3D (com CSS puro); <br>
+        • HTML 5; <br>
+        • Javascript; <br>
+        • CSS 3; <br>
         • Verso do Card com informações sobre o DoWhile 2021; <br>
         • Versão Desktop e Mobile.`, 
         videoSrc: 'https://streamable.com/e/qceqn0',
